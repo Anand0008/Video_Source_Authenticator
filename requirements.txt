@@ -1,0 +1,5 @@
+pycryptodome
+tinyec
+moviepy
+opencv-python
+stegano
