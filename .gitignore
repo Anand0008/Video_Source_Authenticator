@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Media
+*.mp4
+*.mp3
+*.avi
+*.jpg
+*.png
+
+# Temp folders
+images/
+Encode/
+
+# Environment
+.env
+.venv/
+.idea/
+.vscode/
